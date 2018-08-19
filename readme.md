@@ -12,6 +12,8 @@ Roughly based on this: https://www.notion.so/Kirby-taxonomy-c3565ecb974f438e8a39
 - all vocabularies are _drafts_ for performance reasons (they are excluded in the index)
 - all terms are _listed_, so we can use the sorting for them
 
+- Field name convention: each field in a page's template should be named {taxonomy}{vocabularyname}. e.g. fo the `colors` vocabulary this becomes `taxonomycolors`.
+
 ## To do
 
 - create field which makes it straightforward to find / select terms in the page administration in the panel
