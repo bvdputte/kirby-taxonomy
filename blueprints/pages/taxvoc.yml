@@ -1,0 +1,9 @@
+title: Taxonomy vocabulary
+
+options:
+  url: false
+  status: false
+
+sections:
+  terms:
+    extends: sections/terms

@@ -1,0 +1,5 @@
+title: Taxonomy term
+
+fields:
+  termid:
+    extends: fields/termid

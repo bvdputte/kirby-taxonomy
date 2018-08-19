@@ -1,0 +1,10 @@
+title: Taxonomy vocabulary for colors
+
+options:
+  url: false
+  status: false
+
+sections:
+  terms:
+    extends: sections/terms
+    templates: taxcolorterm

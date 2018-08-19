@@ -1,0 +1,16 @@
+title: Taxonomy test pages
+
+icon: 📜
+
+options:
+  url: false
+  status: false
+  delete: false
+
+sections:
+  testpages:
+    type: pages
+    parent: site.find("taxtest")
+    headline: Taxonomy test pages
+    layout: list
+    templates: taxtestpage

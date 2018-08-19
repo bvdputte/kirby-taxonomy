@@ -1,0 +1,8 @@
+title: Taxonomy
+
+sections:
+  vocabularies:
+    extends: sections/vocabularies
+    templates:
+      - taxvoc
+      - taxcolorsvoc

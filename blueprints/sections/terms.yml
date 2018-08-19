@@ -1,0 +1,5 @@
+headline: Terms
+type: pages
+templates: taxterm
+item:
+  info: "{{ page.term }}"

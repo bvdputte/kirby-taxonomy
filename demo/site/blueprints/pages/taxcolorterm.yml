@@ -1,0 +1,8 @@
+title: Color taxonomy term
+
+fields:
+  termid:
+    extends: fields/termid
+  addedfield:
+    label: Additional field for testing purposes
+    type: text
